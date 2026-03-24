@@ -1,0 +1,25 @@
+# ─────────────────────────────────────────
+#  CRO v2.0  —  REQUIREMENTS
+# ─────────────────────────────────────────
+
+# Core
+pyttsx3
+SpeechRecognition
+pyaudio
+psutil
+requests
+pyautogui
+Pillow
+
+# Edge TTS (Microsoft voice — needs internet)
+edge-tts
+pygame
+
+# AI (local)
+ollama
+
+# Optional
+pywhatkit
+opencv-python
+pytesseract
+ultralytics
